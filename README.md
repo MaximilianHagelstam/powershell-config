@@ -23,3 +23,6 @@ Install-Module PSReadLine -RequiredVersion 2.2.0-beta4 -AllowPrerelease
 
 5. Install Caskaydia Cove Nerd Font [here](https://www.nerdfonts.com/font-downloads)
 6. Open your Windows Terminal settings JSON file and replace the contents with the **settings.json** file in this repo
+
+## Inspiration
+https://www.youtube.com/watch?v=VT2L1SXFq9U&list=PLgxlRBw2qiJnj82r96untMquylw2YsQ6g&index=16
